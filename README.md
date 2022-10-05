@@ -1,5 +1,13 @@
 # Entregable-5-Grupal
 
+Integrantes:
+
+Emanuel
+Florencia jesus
+Lucas Cardozo
+
+
+
 Para esta entrega grupal proporcionaremos una lista de imágenes, y se espera que el grupo consiga crear un sitio que se aproxime, al menos visualmente, lo máximo posible al mismo.
 
 Sitio en tamaño LG:
