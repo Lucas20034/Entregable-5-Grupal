@@ -2,9 +2,7 @@
 
 Integrantes:
 
-Emanuel
-Florencia jesus
-Lucas Cardozo
+Emanuel-Florencia Jesus-Lucas Cardozo
 
 
 
