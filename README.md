@@ -1,4 +1,4 @@
-# Entregable-5-Grupal
+# Entregable-5-Grupal Equipo 4
 
 Integrantes:
 
